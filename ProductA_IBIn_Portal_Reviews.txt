@@ -1,0 +1,18 @@
+{
+    "product_name": "Porduct A",
+    "rating": 4.7,
+    "reviews": [
+        {
+            "review": "Amazing performance!",
+            "rating": 5
+        },
+        {
+            "review": "Highly recommended for daily use.",
+            "rating": 5
+        },
+        {
+            "review": "Excellent durability.",
+            "rating": 5
+        }
+    ]
+}

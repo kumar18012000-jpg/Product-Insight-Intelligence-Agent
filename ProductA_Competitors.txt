@@ -1,0 +1,22 @@
+{
+  "competitors": [
+    {
+      "name": "Competitor A",
+      "rating": 4.3,
+      "sentiment_score": 81,
+      "price": 14999,
+      "strength": "Excellent battery",
+      "weakness": "Slow charging",
+      "risk": "Green"
+    },
+    {
+      "name": "Competitor B",
+      "rating": 3.8,
+      "sentiment_score": 62,
+      "price": 12999,
+      "strength": "Good camera",
+      "weakness": "Heating issues",
+      "risk": "Amber"
+    }
+  ]
+}

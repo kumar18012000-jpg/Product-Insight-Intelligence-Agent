@@ -1,0 +1,18 @@
+{
+    "product_name": "Product A",
+    "rating": 3.5,
+    "reviews": [
+        {
+            "review": "Average build quality.",
+            "rating": 3
+        },
+        {
+            "review": "Not satisfied with battery life.",
+            "rating": 2
+        },
+        {
+            "review": "Works okay for the price.",
+            "rating": 4
+        }
+    ]
+}

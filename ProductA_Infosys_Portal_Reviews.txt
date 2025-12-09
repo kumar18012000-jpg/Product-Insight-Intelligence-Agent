@@ -1,0 +1,18 @@
+{
+    "product_name": "Product A",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "review": "Great quality and fast delivery.",
+            "rating": 5
+        },
+        {
+            "review": "Good product but packaging was damaged.",
+            "rating": 4
+        },
+        {
+            "review": "Value for money.",
+            "rating": 4
+        }
+    ]
+}
